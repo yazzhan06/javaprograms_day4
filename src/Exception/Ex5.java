@@ -32,7 +32,7 @@ public static void main(String[]args) {
 
 	TreeSet<String> s2=new TreeSet<>();
 
-	s2.add("malathi");
+	s2.add("iniyal");
 
 	s2.add("madhu");
 
